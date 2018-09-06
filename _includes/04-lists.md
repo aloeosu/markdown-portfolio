@@ -1,3 +1,3 @@
-lol
-meme
-pkmn
+- lol
+- meme
+- pkmn
